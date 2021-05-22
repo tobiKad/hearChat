@@ -24,7 +24,7 @@ parser.on('data', function (data) {
   //socket emit data
   io.sockets.emit('map', data);
 })
-
+// console log if the connection was established succesfully
 serialPort.on('open', function () {
   console.log('Communication is on!')
 })
