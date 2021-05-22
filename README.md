@@ -1,2 +1,2 @@
 # hearChat
-Small project which combine the Arduino with the sockets technology.
+The small project combines the Arduino with the sockets technology.
